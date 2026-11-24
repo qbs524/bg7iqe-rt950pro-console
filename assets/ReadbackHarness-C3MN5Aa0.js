@@ -1,0 +1,1 @@
+import{a as e,c as t,d as n,f as r,i,l as a,n as o,o as s,p as c,r as l,s as u,t as d,u as f}from"./index-vSCZrzpf.js";function p(p,m){c(m,!0);let h=n(null);window.__readback=async e=>{await o(),f(h,l(e),!0),await t()};var g=s(),_=a(g),v=e=>{d(e,{get ui(){return u(h)}})};i(_,e=>{u(h)&&e(v)}),e(p,g),r()}export{p as default};
