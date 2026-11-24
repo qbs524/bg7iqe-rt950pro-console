@@ -2,7 +2,7 @@
 
 Ferrite Console 的中文界面构建，纯静态托管。浏览器打开即可用：
 
-**https://qbs524.github.io/ferrite-console-zh/**
+**https://qbs524.github.io/bg7iqe-rt950pro-console/**
 
 ## 能做什么
 
